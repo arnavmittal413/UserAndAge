@@ -1,0 +1,17 @@
+.card-outer{
+    width: 605px;
+    /* min-height: 100px; */
+    background-color: white;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.card-inner{
+    padding: 10px;
+}
+.card-inner p{
+    border: 2px solid black;
+    text-align: left;
+    padding: 5px 0px 5px 10px;
+    border-radius: 5px;
+    
+}
